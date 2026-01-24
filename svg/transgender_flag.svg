@@ -609,9 +609,158 @@
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
-    <path stroke="var(--color63, #d1d1d1)" d="M1 1h30M1 2h1M30 2h1M1 3h1M30 3h1M1 4h1M30 4h1M1 5h1M30 5h1M1 6h1M30 6h1M1 7h1M30 7h1M1 8h1M30 8h1M1 9h1M30 9h1M1 10h1M30 10h1M1 11h1M30 11h1M1 12h1M30 12h1M1 13h2M29 13h2M1 14h2M29 14h2M1 15h2M29 15h2M1 16h2M29 16h2M1 17h2M29 17h2M1 18h2M29 18h2M1 19h2M29 19h2M1 20h2M29 20h2M1 21h2M29 21h2M1 22h3M28 22h3M1 23h3M28 23h3M1 24h4M27 24h4M1 25h6M25 25h6M1 26h30M1 27h30" />
-    <path stroke="var(--color62, #e4e4e4)" d="M2 2h28M2 3h2M10 3h20M2 4h1M9 4h21M2 5h1M7 5h23M2 6h1M6 6h24M2 7h1M5 7h25M2 8h1M4 8h26M2 9h1M4 9h26M2 10h28M2 11h28M2 12h28M3 13h26M3 14h26M3 15h26M3 16h26M3 17h26M3 18h26M3 19h26M3 20h26M3 21h26M4 22h24M4 23h24M5 24h22M7 25h18" />
-    <path stroke="var(--color6, #fff)" d="M4 3h6M3 4h6M3 5h4M3 6h3M3 7h2M3 8h1M3 9h1" />
-    <path stroke="var(--color61, #a3a3a3)" d="M1 28h30M1 29h30" />
-    <path stroke="var(--color60, #7b7b7b)" d="M1 30h30" />
+    <path stroke="var(--color604, #68d8ff)" d="M4 5h3M2 6h5M29 6h2M1 7h6M27 7h4M1 8h2M26 8h5M26 9h3M2 22h1M1 23h2M28 23h3M1 24h3M23 24h7M23 25h6M23 26h3" />
+    <path stroke="var(--color603, #6fdeff)" d="M7 5h1M7 6h1" />
+    <path stroke="var(--color602, #70dfff)" d="M8 5h1M8 6h1M21 8h5M21 9h5M4 21h3M4 22h3M17 24h5M17 25h5M18 26h4" />
+    <path stroke="var(--color601, #73e2ff)" d="M9 5h1M9 6h1" />
+    <path stroke="var(--color600, #79e6ff)" d="M10 5h3M10 6h3M11 7h2M18 8h2M18 9h2M8 21h1M8 22h1M15 23h1M15 24h1M14 25h1" />
+    <path stroke="var(--color599, #8af4ff)" d="M13 6h1M13 7h1M13 8h1" />
+    <path stroke="var(--color598, #8df6ff)" d="M14 6h1M14 7h3M14 8h3M16 9h1M10 21h1M10 22h4M12 23h2" />
+    <path stroke="var(--color597, #7adbff)" d="M7 7h1" />
+    <path stroke="var(--color596, #94d3ff)" d="M8 7h1M23 10h3" />
+    <path stroke="var(--color595, #add0ff)" d="M9 7h1" />
+    <path stroke="var(--color594, #9dddff)" d="M10 7h1" />
+    <path stroke="var(--color593, #7ed2ff)" d="M3 8h1" />
+    <path stroke="var(--color592, #b9beff)" d="M4 8h1" />
+    <path stroke="var(--color591, #e8b0ff)" d="M5 8h1" />
+    <path stroke="var(--color590, #faf)" d="M6 8h1M25 12h1" />
+    <path stroke="var(--color589, #ffafff)" d="M7 8h1M24 12h1M24 13h1" />
+    <path stroke="var(--color588, #ffb0ff)" d="M8 8h1M6 9h3M6 10h3M21 11h5M20 12h4M22 13h2M5 18h2M4 19h3M17 21h6M17 22h6M18 23h4" />
+    <path stroke="var(--color587, #ffb7ff)" d="M9 8h1M9 9h1M9 10h1M19 12h1M7 18h1" />
+    <path stroke="var(--color586, #ffbfff)" d="M10 8h1M10 9h2M10 10h1M18 11h2M17 12h1M9 18h1M8 19h1M15 20h1M15 21h1" />
+    <path stroke="var(--color585, #f0c4ff)" d="M11 8h1" />
+    <path stroke="var(--color584, #a1dbff)" d="M12 8h1" />
+    <path stroke="var(--color583, #89f3ff)" d="M17 8h1M17 9h1" />
+    <path stroke="var(--color582, #72e1ff)" d="M20 8h1M20 9h1" />
+    <path stroke="var(--color581, #9fc8ff)" d="M1 9h1" />
+    <path stroke="var(--color580, #dbb4ff)" d="M2 9h1" />
+    <path stroke="var(--color579, #ffa7ff)" d="M3 9h2M1 10h4M29 10h2M1 11h2M27 11h4M26 12h5M25 13h3M2 18h1M1 19h2M1 20h2M26 20h5M1 21h1M24 21h7M24 22h4" />
+    <path stroke="var(--color578, #ffa9ff)" d="M5 9h1M5 10h1M26 11h1M3 18h1" />
+    <path stroke="var(--color577, #ffc2ff)" d="M12 9h1M11 10h1M17 11h1M9 19h1" />
+    <path stroke="var(--color576, #eadeff)" d="M13 9h1" />
+    <path stroke="var(--color575, #bdebff)" d="M14 9h1" />
+    <path stroke="var(--color574, #96f5ff)" d="M15 9h1" />
+    <path stroke="var(--color573, #81d0ff)" d="M29 9h1" />
+    <path stroke="var(--color572, #d5b6ff)" d="M30 9h1" />
+    <path stroke="var(--color571, #ffdbff)" d="M12 10h4M12 11h4M11 19h3M11 20h3" />
+    <path stroke="var(--color570, #d9e4ff)" d="M16 10h1" />
+    <path stroke="var(--color569, #c5e4ff)" d="M17 10h1" />
+    <path stroke="var(--color568, #bdd4ff)" d="M18 10h2" />
+    <path stroke="var(--color567, #baccff)" d="M20 10h1" />
+    <path stroke="var(--color566, #b9c8ff)" d="M21 10h1M6 20h1" />
+    <path stroke="var(--color565, #99d3ff)" d="M22 10h1" />
+    <path stroke="var(--color564, #90cdff)" d="M26 10h1" />
+    <path stroke="var(--color563, #9bc8ff)" d="M27 10h1" />
+    <path stroke="var(--color562, #cdb8ff)" d="M28 10h1" />
+    <path stroke="var(--color561, #f6bbf6)" d="M3 11h1M29 13h1" />
+    <path stroke="var(--color560, #eecfee)" d="M4 11h1" />
+    <path stroke="var(--color559, #ebd8eb)" d="M5 11h1" />
+    <path stroke="var(--color558, #ede4ed)" d="M6 11h1" />
+    <path stroke="var(--color160, #eaeaea)" d="M7 11h1M6 12h2M5 13h3M5 14h3M19 14h2M5 15h3M19 15h5M5 16h3M18 16h6M18 17h6M18 18h5M18 19h5" />
+    <path stroke="var(--color557, #f1e3f1)" d="M8 11h1" />
+    <path stroke="var(--color556, #f4dff4)" d="M9 11h1" />
+    <path stroke="var(--color555, #f8daf8)" d="M10 11h1" />
+    <path stroke="var(--color554, #ffc8ff)" d="M11 11h1" />
+    <path stroke="var(--color553, #ffd1ff)" d="M16 11h1" />
+    <path stroke="var(--color552, #ffb5ff)" d="M20 11h1" />
+    <path stroke="var(--color551, #e6dee6)" d="M1 12h1" />
+    <path stroke="var(--color62, #e4e4e4)" d="M2 12h2M1 13h3M1 14h3M27 14h4M1 15h3M25 15h6M1 16h3M25 16h6M1 17h1M25 17h6M25 18h6M24 19h2" />
+    <path stroke="var(--color181, #e5e5e5)" d="M4 12h1" />
+    <path stroke="var(--color177, #e8e8e8)" d="M5 12h1M23 19h1" />
+    <path stroke="var(--color176, #eee)" d="M8 12h1M8 13h1M8 14h1M8 15h1M8 16h1" />
+    <path stroke="var(--color159, #f1f1f1)" d="M9 12h2M9 13h2M9 14h1M17 14h1M9 15h1M9 16h1M16 17h1M16 18h1" />
+    <path stroke="var(--color180, #f3f3f3)" d="M11 12h1M11 13h1" />
+    <path stroke="var(--color550, #fff9ff)" d="M12 12h1" />
+    <path stroke="var(--color549, #fff2ff)" d="M13 12h1" />
+    <path stroke="var(--color548, #ffe8ff)" d="M14 12h1" />
+    <path stroke="var(--color547, #ffe3ff)" d="M15 12h1" />
+    <path stroke="var(--color546, #ffcfff)" d="M16 12h1" />
+    <path stroke="var(--color545, #ffbdff)" d="M18 12h1M7 19h1M16 20h1" />
+    <path stroke="var(--color184, #e6e6e6)" d="M4 13h1M4 14h1M4 15h1M4 16h1M24 18h1" />
+    <path stroke="var(--color6, #fff)" d="M12 13h4M12 14h4M11 15h4M11 16h4M11 17h4M14 18h1" />
+    <path stroke="var(--color175, #f9f9f9)" d="M16 13h1M16 14h1M16 15h1" />
+    <path stroke="var(--color544, #f5e2f5)" d="M17 13h1" />
+    <path stroke="var(--color543, #facdfa)" d="M18 13h1" />
+    <path stroke="var(--color542, #fabffa)" d="M19 13h2M19 20h1" />
+    <path stroke="var(--color541, #fdb6fd)" d="M21 13h1" />
+    <path stroke="var(--color540, #f9b4f9)" d="M28 13h1" />
+    <path stroke="var(--color539, #ecd2ec)" d="M30 13h1" />
+    <path stroke="var(--color174, #f2f2f2)" d="M10 14h1M16 16h1" />
+    <path stroke="var(--color173, #f6f6f6)" d="M11 14h1M10 15h1M10 16h1" />
+    <path stroke="var(--color179, #f0f0f0)" d="M18 14h1M17 15h2" />
+    <path stroke="var(--color538, #eae8ea)" d="M21 14h1" />
+    <path stroke="var(--color537, #efdeef)" d="M22 14h1" />
+    <path stroke="var(--color536, #efddef)" d="M23 14h1M22 20h1" />
+    <path stroke="var(--color535, #eedcee)" d="M24 14h1" />
+    <path stroke="var(--color534, #ead8ea)" d="M25 14h1" />
+    <path stroke="var(--color533, #e5e4e5)" d="M26 14h1" />
+    <path stroke="var(--color172, #fefefe)" d="M15 15h1" />
+    <path stroke="var(--color187, #e9e9e9)" d="M24 15h1M24 16h1M24 17h1M23 18h1" />
+    <path stroke="var(--color171, #f8f8f8)" d="M15 16h1" />
+    <path stroke="var(--color170, #efefef)" d="M17 16h1M17 17h1M17 18h1M17 19h1" />
+    <path stroke="var(--color532, #e8d9e8)" d="M2 17h1" />
+    <path stroke="var(--color531, #ebd7eb)" d="M3 17h1M29 19h1" />
+    <path stroke="var(--color530, #efcfef)" d="M4 17h1" />
+    <path stroke="var(--color529, #f4cef4)" d="M5 17h3" />
+    <path stroke="var(--color528, #f4dcf4)" d="M8 17h1" />
+    <path stroke="var(--color527, #f4e6f4)" d="M9 17h1" />
+    <path stroke="var(--color526, #f7f1f7)" d="M10 17h1" />
+    <path stroke="var(--color169, #f7f7f7)" d="M15 17h1M15 18h1" />
+    <path stroke="var(--color525, #f8b9f8)" d="M1 18h1" />
+    <path stroke="var(--color524, #ffadff)" d="M4 18h1M23 21h1M23 22h1" />
+    <path stroke="var(--color523, #fbf)" d="M8 18h1" />
+    <path stroke="var(--color522, #ffc9ff)" d="M10 18h1" />
+    <path stroke="var(--color521, #ffe4ff)" d="M11 18h1" />
+    <path stroke="var(--color520, #ffedff)" d="M12 18h1" />
+    <path stroke="var(--color519, #fff6ff)" d="M13 18h1" />
+    <path stroke="var(--color518, #ffabff)" d="M3 19h1M3 20h1" />
+    <path stroke="var(--color517, #ffceff)" d="M10 19h1" />
+    <path stroke="var(--color516, #ffd6ff)" d="M14 19h1" />
+    <path stroke="var(--color515, #fcd7fc)" d="M15 19h1" />
+    <path stroke="var(--color514, #f5e5f5)" d="M16 19h1" />
+    <path stroke="var(--color513, #e8dde8)" d="M26 19h1" />
+    <path stroke="var(--color512, #ead6ea)" d="M27 19h2" />
+    <path stroke="var(--color511, #f0caf0)" d="M30 19h1" />
+    <path stroke="var(--color510, #f2b5ff)" d="M4 20h1" />
+    <path stroke="var(--color509, #c0c5ff)" d="M5 20h1" />
+    <path stroke="var(--color508, #b9d2ff)" d="M7 20h1" />
+    <path stroke="var(--color507, #a3daff)" d="M8 20h1" />
+    <path stroke="var(--color506, #ded9ff)" d="M9 20h1" />
+    <path stroke="var(--color505, #f4dfff)" d="M10 20h1" />
+    <path stroke="var(--color504, #ffc7ff)" d="M14 20h1M14 21h1" />
+    <path stroke="var(--color503, #ffb8ff)" d="M17 20h1M16 21h1M16 22h1" />
+    <path stroke="var(--color502, #fdb7fd)" d="M18 20h1" />
+    <path stroke="var(--color501, #f7c6f7)" d="M20 20h1" />
+    <path stroke="var(--color500, #f1d8f1)" d="M21 20h1" />
+    <path stroke="var(--color499, #f2cdf2)" d="M23 20h1" />
+    <path stroke="var(--color498, #f9b8f9)" d="M24 20h1" />
+    <path stroke="var(--color497, #fea7fe)" d="M25 20h1" />
+    <path stroke="var(--color496, #c0bcff)" d="M2 21h1" />
+    <path stroke="var(--color495, #8bd2ff)" d="M3 21h1" />
+    <path stroke="var(--color494, #78e5ff)" d="M7 21h1M7 22h1M15 25h1" />
+    <path stroke="var(--color493, #83eeff)" d="M9 21h1M9 22h1" />
+    <path stroke="var(--color492, #92f6ff)" d="M11 21h1" />
+    <path stroke="var(--color491, #c1eaff)" d="M12 21h1" />
+    <path stroke="var(--color490, #e7e2ff)" d="M13 21h1" />
+    <path stroke="var(--color489, #73d4ff)" d="M1 22h1" />
+    <path stroke="var(--color488, #6cdbff)" d="M3 22h1M22 24h1M22 25h1M22 26h1" />
+    <path stroke="var(--color487, #8de7ff)" d="M14 22h1" />
+    <path stroke="var(--color486, #d9ccff)" d="M15 22h1" />
+    <path stroke="var(--color485, #f0abff)" d="M28 22h1" />
+    <path stroke="var(--color484, #b7bfff)" d="M29 22h1" />
+    <path stroke="var(--color483, #83d0ff)" d="M30 22h1" />
+    <path stroke="var(--color482, #69d9ff)" d="M3 23h1" />
+    <path stroke="var(--color481, #6bdaff)" d="M4 23h1" />
+    <path stroke="var(--color480, #7febff)" d="M14 23h1" />
+    <path stroke="var(--color479, #add3ff)" d="M16 23h1" />
+    <path stroke="var(--color478, #debbff)" d="M17 23h1" />
+    <path stroke="var(--color477, #dfb8ff)" d="M22 23h1" />
+    <path stroke="var(--color476, #dbb6ff)" d="M23 23h1" />
+    <path stroke="var(--color475, #d7b5ff)" d="M24 23h1" />
+    <path stroke="var(--color474, #bdbcff)" d="M25 23h1" />
+    <path stroke="var(--color473, #a8c4ff)" d="M26 23h1" />
+    <path stroke="var(--color472, #75d4ff)" d="M27 23h1" />
+    <path stroke="var(--color471, #8cf5ff)" d="M12 24h2" />
+    <path stroke="var(--color470, #7ce9ff)" d="M14 24h1" />
+    <path stroke="var(--color469, #75e3ff)" d="M16 24h1M16 25h1" />
 </svg>
