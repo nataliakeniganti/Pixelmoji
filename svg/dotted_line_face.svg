@@ -463,6 +463,13 @@
             --color459: #ff994c;
             --color460: #ff7a00;
             --color461: #ff6200;
+            --color462: #7c00c3;
+            --color463: #be3dea;
+            --color464: #ac00e0;
+            --color465: #7b00c1;
+            --color466: #7e00c1;
+            --color467: #9400e5;
+            --color468: #7c00c1;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
