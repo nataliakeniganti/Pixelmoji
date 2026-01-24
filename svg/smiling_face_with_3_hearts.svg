@@ -460,6 +460,9 @@
             --color456: #fec200;
             --color457: #fec300;
             --color458: #909090;
+            --color459: #ff994c;
+            --color460: #ff7a00;
+            --color461: #ff6200;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
