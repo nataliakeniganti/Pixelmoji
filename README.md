@@ -13,3 +13,12 @@ Coverage:
 * Mountatin
 * Wheel
 * Automobile
+* Removed duplicate white flag
+* Minibus
+* Plestress Face?
+* Vivacious Face?
+* Veinza?
+* Hamsa
+* Khanda
+* Passport control
+* Customs
