@@ -20,5 +20,5 @@
 * Вейнза?
 * Хамса
 * Ханда
-* Паспортний контроль
-* Митниця
+* <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Паспортний контроль
+* <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Митниця

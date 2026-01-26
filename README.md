@@ -20,5 +20,5 @@ Coverage:
 * Veinza?
 * Hamsa
 * Khanda
-* Passport control
-* Customs
+* <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Passport control
+* <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Customs

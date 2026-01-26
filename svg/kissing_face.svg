@@ -1002,6 +1002,12 @@
             --color998: #f0f8ff;
             --color999: #d6edff;
             --color1000: #afdbff;
+            --color1001: #dcdcdc;
+            --color1002: #ebebeb;
+            --color1003: #e7e7e7;
+            --color1004: #ffdc39;
+            --color1005: #ffd926;
+            --color1006: #ffc400;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
