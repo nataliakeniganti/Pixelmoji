@@ -1000,8 +1000,33 @@
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
-    <path stroke="var(--color5, #ffc300)" d="M12 0h8M9 1h14M7 2h18M6 3h20M5 4h7M20 4h7M4 5h5M22 5h6M3 6h4M23 6h6M2 7h3M25 7h5M2 8h3M25 8h5M1 9h3M26 9h5M1 10h3M27 10h4M1 11h4M27 11h4M0 12h4M28 12h4M0 13h4M28 13h4M0 14h4M28 14h4M0 15h4M28 15h4M0 16h4M28 16h4M0 17h4M28 17h4M0 18h4M28 18h4M0 19h4M28 19h4M1 20h4M27 20h4M1 21h1M27 21h4M0 22h2M27 22h4M0 23h2M27 23h3M0 24h5M27 24h3M0 25h4M27 25h4M3 26h1M26 26h5M2 27h2M7 27h5M21 27h9M2 28h26M2 29h26M2 30h3M9 30h19M12 31h8" />
-    <path stroke="var(--color3, #ffd300)" d="M12 4h8M14 5h8M15 6h8M15 7h10M14 8h11M13 9h13M14 10h13M14 11h5M22 11h5M4 12h5M14 12h4M23 12h5M4 13h5M14 13h4M23 13h5M4 14h6M13 14h5M23 14h5M4 15h14M23 15h5M4 16h15M22 16h6M4 17h24M4 18h6M12 18h16M4 19h6M13 19h15M5 20h5M21 20h6M2 21h9M22 21h5M2 22h15M22 22h5M2 23h15M22 23h5M5 24h11M21 24h6M4 25h12M24 25h3M4 26h12M24 26h2M4 27h3M12 27h4" />
-    <path stroke="var(--color2, #ffe04c)" d="M9 5h5M7 6h8M5 7h10M5 8h9M4 9h6M4 10h5M5 11h4" />
-    <path stroke="var(--color1, #000)" d="M10 9h3M9 10h5M9 11h5M19 11h3M9 12h5M18 12h5M9 13h5M18 13h5M10 14h3M18 14h5M18 15h5M19 16h3M10 18h2M10 19h3M10 20h11M11 21h11M17 22h5M17 23h5M16 24h5M16 25h8M16 26h8M16 27h5" />
+    <path stroke="var(--color995, #aeaeae)" d="M17 1h9M17 2h1M17 3h1M17 4h1M17 5h1M17 6h1" />
+    <path stroke="var(--color994, #d6d6d6)" d="M18 2h1M20 2h1" />
+    <path stroke="var(--color993, #d7d7d7)" d="M19 2h1M21 2h5M18 4h1M18 5h1" />
+    <path stroke="var(--color992, #d8d8d8)" d="M18 3h1M18 6h1" />
+    <path stroke="var(--color991, #68fc3e)" d="M9 5h8M20 5h4M8 6h9M20 6h2" />
+    <path stroke="var(--color990, #6efc46)" d="M19 5h1" />
+    <path stroke="var(--color989, #65fa3a)" d="M24 5h1" />
+    <path stroke="var(--color988, #6ffc47)" d="M19 6h1" />
+    <path stroke="var(--color987, #60f735)" d="M22 6h1" />
+    <path stroke="var(--color986, #5af42e)" d="M23 6h1" />
+    <path stroke="var(--color985, #37e005)" d="M24 6h1" />
+    <path stroke="var(--color984, #66fd3c)" d="M7 7h12" />
+    <path stroke="var(--color983, #65fd3a)" d="M19 7h1" />
+    <path stroke="var(--color982, #56fd26)" d="M20 7h1" />
+    <path stroke="var(--color981, #55f826)" d="M21 7h1" />
+    <path stroke="var(--color980, #40e610)" d="M22 7h1" />
+    <path stroke="var(--color979, #32de00)" d="M23 7h2M22 8h3M22 9h3M22 10h3M22 11h3M22 12h3M22 13h3M22 14h3M22 15h3M22 16h3M22 17h3M22 18h3M22 19h3M22 20h3M22 21h3M22 22h3M22 23h3M22 24h3M22 25h3M22 26h3M22 27h2" />
+    <path stroke="var(--color978, #65ff39)" d="M7 8h12M7 9h12M7 10h12M7 11h12M7 12h12M7 13h6M16 13h3M7 14h4M18 14h1M7 15h4M18 15h1M7 16h3M7 17h3M7 18h3M7 19h4M18 19h1M7 20h4M18 20h1M7 21h6M16 21h3M7 22h12M7 23h12M7 24h12M7 25h12M7 26h12M7 27h12" />
+    <path stroke="var(--color977, #62ff35)" d="M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1" />
+    <path stroke="var(--color976, #39ff00)" d="M20 8h1M20 9h1M20 10h1M20 11h1M20 12h1M20 13h1M20 14h1M20 15h1M20 16h1M20 17h1M20 18h1M20 19h1M20 20h1M20 21h1M20 22h1M20 23h1M20 24h1M20 25h1M20 26h1M20 27h1M20 28h1" />
+    <path stroke="var(--color975, #36f200)" d="M21 8h1M21 10h1M21 11h1M21 12h1M21 13h1M21 14h1M21 15h1M21 16h1M21 17h1M21 18h1M21 19h1M21 20h1M21 21h1M21 22h1M21 23h1M21 24h1M21 25h1M21 26h1M21 27h1M21 28h1" />
+    <path stroke="var(--color974, #36f201)" d="M21 9h1" />
+    <path stroke="var(--color6, #fff)" d="M13 13h3M11 14h7M11 15h2M17 15h1M10 16h3M17 16h2M10 17h1M18 17h1M10 18h1M18 18h1M11 19h2M17 19h1M11 20h3M16 20h2M13 21h3" />
+    <path stroke="var(--color4, #f00)" d="M13 15h4M13 16h4" />
+    <path stroke="var(--color371, #ff8000)" d="M11 17h4M11 18h2" />
+    <path stroke="var(--color973, #b900ff)" d="M15 17h3M13 18h5M13 19h4M14 20h2" />
+    <path stroke="var(--color972, #3eff07)" d="M7 28h12" />
+    <path stroke="var(--color971, #3eff06)" d="M19 28h1" />
+    <path stroke="var(--color970, #31dd00)" d="M22 28h1" />
 </svg>
