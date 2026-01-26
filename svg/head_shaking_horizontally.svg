@@ -598,405 +598,405 @@
             --color594: #70dfff;
             --color595: #6fdeff;
             --color596: #68d8ff;
-            --color597: #1c0395;
-            --color598: #2b089c;
-            --color599: #2c079c;
-            --color600: #2c089c;
-            --color601: #2b099c;
-            --color602: #2a089b;
-            --color603: #240898;
-            --color604: #200697;
-            --color605: #1e0595;
-            --color606: #1b0594;
-            --color607: #190493;
-            --color608: #190393;
-            --color609: #190293;
-            --color610: #180293;
-            --color611: #170192;
-            --color612: #160192;
-            --color613: #2705c4;
-            --color614: #3909c9;
-            --color615: #3c0bca;
-            --color616: #3c0cca;
-            --color617: #3a0dc9;
-            --color618: #360ec8;
-            --color619: #330cc7;
-            --color620: #300ac7;
-            --color621: #2907c5;
-            --color622: #2605c4;
-            --color623: #2204c3;
-            --color624: #2103c2;
-            --color625: #2102c2;
-            --color626: #480dcd;
-            --color627: #430ccc;
-            --color628: #4e11cf;
-            --color629: #4f14cf;
-            --color630: #4b12ce;
-            --color631: #4512cc;
-            --color632: #3f10cb;
-            --color633: #390ec9;
-            --color634: #320bc7;
-            --color635: #2d09c6;
-            --color636: #2806c4;
-            --color637: #2505c3;
-            --color638: #2404c3;
-            --color639: #2104c2;
-            --color640: #1f01c2;
-            --color641: #1e01c2;
-            --color642: #8c22ff;
-            --color643: #6e19ff;
-            --color644: #6a1aff;
-            --color645: #6919ff;
-            --color646: #641dff;
-            --color647: #5e1dff;
-            --color648: #5318ff;
-            --color649: #4b14ff;
-            --color650: #440fff;
-            --color651: #3d0cff;
-            --color652: #3709ff;
-            --color653: #3208ff;
-            --color654: #2e06ff;
-            --color655: #2c04ff;
-            --color656: #2901ff;
-            --color657: #b72eff;
-            --color658: #a128ff;
-            --color659: #8c23ff;
-            --color660: #8224ff;
-            --color661: #7a28ff;
-            --color662: #7328ff;
-            --color663: #6723ff;
-            --color664: #5a1cff;
-            --color665: #5118ff;
-            --color666: #4611ff;
-            --color667: #3f0dff;
-            --color668: #3a0aff;
-            --color669: #2f06ff;
-            --color670: #2a03ff;
-            --color671: #2a02ff;
-            --color672: #2801ff;
-            --color673: #c834ff;
-            --color674: #c232ff;
-            --color675: #b130ff;
-            --color676: #a135ff;
-            --color677: #9136ff;
-            --color678: #8433ff;
-            --color679: #924aff;
-            --color680: #8948ff;
-            --color681: #7d42ff;
-            --color682: #693bff;
-            --color683: #d537ff;
-            --color684: #cf36ff;
-            --color685: #c738ff;
-            --color686: #bd4bff;
-            --color687: #bc57ff;
-            --color688: #ad56ff;
-            --color689: #a250ff;
-            --color690: #964eff;
-            --color691: #894aff;
-            --color692: #7f42ff;
-            --color693: #7340ff;
-            --color694: #e03cff;
-            --color695: #da39ff;
-            --color696: #d442ff;
-            --color697: #d860ff;
-            --color698: #d061ff;
-            --color699: #984eff;
-            --color700: #8b4aff;
-            --color701: #7640ff;
-            --color702: #6538ff;
-            --color703: #eb41ff;
-            --color704: #e53eff;
-            --color705: #e057ff;
-            --color706: #e067ff;
-            --color707: #dd68ff;
-            --color708: #c25eff;
-            --color709: #b65bff;
-            --color710: #984fff;
-            --color711: #8c4aff;
-            --color712: #f342ff;
-            --color713: #ed6bff;
-            --color714: #e96cff;
-            --color715: #e26dff;
-            --color716: #d365ff;
-            --color717: #c560ff;
-            --color718: #b75bff;
-            --color719: #f143ff;
-            --color720: #ed6dff;
-            --color721: #e66cff;
-            --color722: #d063ff;
-            --color723: #c15eff;
-            --color724: #b659ff;
-            --color725: #a855ff;
-            --color726: #5332ff;
-            --color727: #f643ff;
-            --color728: #f072ff;
-            --color729: #ed6fff;
-            --color730: #e56dff;
-            --color731: #db69ff;
-            --color732: #ce62ff;
-            --color733: #bf5fff;
-            --color734: #914dff;
-            --color735: #8346ff;
-            --color736: #763fff;
-            --color737: #5133ff;
-            --color738: #5132ff;
-            --color739: #fd46ff;
-            --color740: #fa45ff;
-            --color741: #f774ff;
-            --color742: #f471ff;
-            --color743: #e96fff;
-            --color744: #e46bff;
-            --color745: #d768ff;
-            --color746: #a755ff;
-            --color747: #9b50ff;
-            --color748: #8f4bff;
-            --color749: #8246ff;
-            --color750: #723fff;
-            --color751: #673aff;
-            --color752: #5433ff;
-            --color753: #fd47ff;
-            --color754: #fb75ff;
-            --color755: #e26bff;
-            --color756: #be5dff;
-            --color757: #b358ff;
-            --color758: #a655ff;
-            --color759: #9a50ff;
-            --color760: #8d4aff;
-            --color761: #8042ff;
-            --color762: #713eff;
-            --color763: #6738ff;
-            --color764: #4f2fff;
-            --color765: #fd76ff;
-            --color766: #e970ff;
-            --color767: #cb61ff;
-            --color768: #b25aff;
-            --color769: #a554ff;
-            --color770: #974fff;
-            --color771: #8b49ff;
-            --color772: #7b41ff;
-            --color773: #6e3dff;
-            --color774: #5835ff;
-            --color775: #d665ff;
-            --color776: #ca60ff;
-            --color777: #bd5eff;
-            --color778: #a453ff;
-            --color779: #954dff;
-            --color780: #8747ff;
-            --color781: #7840ff;
-            --color782: #5734ff;
-            --color783: #53f;
-            --color784: #5231ff;
-            --color785: #df69ff;
-            --color786: #ca63ff;
-            --color787: #bd5dff;
-            --color788: #b258ff;
-            --color789: #a252ff;
-            --color790: #934bff;
-            --color791: #8345ff;
-            --color792: #5030ff;
-            --color793: #de6aff;
-            --color794: #d566ff;
-            --color795: #ca62ff;
-            --color796: #bf5bff;
-            --color797: #b159ff;
-            --color798: #9f52ff;
-            --color799: #6939ff;
-            --color800: #6137ff;
-            --color801: #5a36ff;
-            --color802: #5632ff;
-            --color803: #5130ff;
-            --color804: #de69ff;
-            --color805: #d565ff;
-            --color806: #c863ff;
-            --color807: #bd5aff;
-            --color808: #7d43ff;
-            --color809: #703eff;
-            --color810: #6839ff;
-            --color811: #6037ff;
-            --color812: #5333ff;
-            --color813: #5131ff;
-            --color814: #2701ff;
-            --color815: #7b42ff;
-            --color816: #5e37ff;
-            --color817: #5836ff;
-            --color818: #5234ff;
-            --color819: #5232ff;
-            --color820: #2902ff;
-            --color821: #b959ff;
-            --color822: #6339ff;
-            --color823: #5c37ff;
-            --color824: #5733ff;
-            --color825: #5534ff;
-            --color826: #5233ff;
-            --color827: #2b03ff;
-            --color828: #f472ff;
-            --color829: #f173ff;
-            --color830: #ec6fff;
-            --color831: #c562ff;
-            --color832: #b85aff;
-            --color833: #763eff;
-            --color834: #693aff;
-            --color835: #7b5dff;
-            --color836: #5334ff;
-            --color837: #f574ff;
-            --color838: #ec70ff;
-            --color839: #e76eff;
-            --color840: #df6cff;
-            --color841: #d366ff;
-            --color842: #713cff;
-            --color843: #7d5fff;
-            --color844: #5633ff;
-            --color845: #2c06ff;
-            --color846: #fd77ff;
-            --color847: #fb76ff;
-            --color848: #f272ff;
-            --color849: #ee70ff;
-            --color850: #e96eff;
-            --color851: #dd6bff;
-            --color852: #ae56ff;
-            --color853: #7e60ff;
-            --color854: #5834ff;
-            --color855: #2d06ff;
-            --color856: #f875ff;
-            --color857: #f573ff;
-            --color858: #e86dff;
-            --color859: #db6aff;
-            --color860: #cc64ff;
-            --color861: #bc5fff;
-            --color862: #a856ff;
-            --color863: #8162ff;
-            --color864: #5b36ff;
-            --color865: #3007ff;
-            --color866: #f273ff;
-            --color867: #ee71ff;
-            --color868: #e76cff;
-            --color869: #d867ff;
-            --color870: #8463ff;
-            --color871: #5d37ff;
-            --color872: #3207ff;
-            --color873: #f675fe;
-            --color874: #f473ff;
-            --color875: #f073ff;
-            --color876: #e96dff;
-            --color877: #8961ff;
-            --color878: #6036ff;
-            --color879: #3708ff;
-            --color880: #fc77ff;
-            --color881: #f974ff;
-            --color882: #f775ff;
-            --color883: #f475ff;
-            --color884: #f179ff;
-            --color885: #ee83ff;
-            --color886: #de7dff;
-            --color887: #c96eff;
-            --color888: #bb68ff;
-            --color889: #aa61ff;
-            --color890: #9862ff;
-            --color891: #6d39ff;
-            --color892: #6233ff;
-            --color893: #3409ff;
-            --color894: #f7f;
-            --color895: #ff76ff;
-            --color896: #fd75ff;
-            --color897: #fb73ff;
-            --color898: #f872ff;
-            --color899: #f56eff;
-            --color900: #f26cff;
-            --color901: #eb68ff;
-            --color902: #d65dff;
-            --color903: #b24aff;
-            --color904: #9b40ff;
-            --color905: #863aff;
-            --color906: #6c36ff;
-            --color907: #5936ff;
-            --color908: #2d05ff;
-            --color909: #ff46ff;
-            --color910: #ff47ff;
-            --color911: #ff48ff;
-            --color912: #fd49ff;
-            --color913: #fa46ff;
-            --color914: #f644ff;
-            --color915: #f244ff;
-            --color916: #ed43ff;
-            --color917: #e43fff;
-            --color918: #c335ff;
-            --color919: #7e1dff;
-            --color920: #440dff;
-            --color921: #3105ff;
-            --color922: #2b05ff;
-            --color923: #ffc900;
-            --color924: #e9c000;
-            --color925: #dfb800;
-            --color926: #ebc200;
-            --color927: #ceaa00;
-            --color928: #2c2500;
-            --color929: #1b1700;
-            --color930: #6f5c00;
-            --color931: #141100;
-            --color932: #352c00;
-            --color933: #d5b000;
-            --color934: #af9100;
-            --color935: #c3a100;
-            --color936: #be9d00;
-            --color937: #a48700;
-            --color938: #8f7600;
-            --color939: #efc500;
-            --color940: #9f8300;
-            --color941: #060500;
-            --color942: #040400;
-            --color943: #0b0900;
-            --color944: #a58800;
-            --color945: #917800;
-            --color946: #9b8000;
-            --color947: #050400;
-            --color948: #2f2805;
-            --color949: #ffd71c;
-            --color950: #ffd611;
-            --color951: #ffdb2f;
-            --color952: #0f0d02;
-            --color953: #ffd32c;
-            --color954: #1f1a00;
-            --color955: #3f3400;
-            --color956: #2f2700;
-            --color957: #0f0d04;
-            --color958: #ffdf49;
-            --color959: #0f0e04;
-            --color960: #2f2a0e;
-            --color961: #ffd40b;
-            --color962: #ffc700;
-            --color963: #ffdd3d;
-            --color964: #ffd839;
-            --color965: #ffd126;
-            --color966: #ffd50f;
-            --color967: #ffca13;
-            --color968: #ffc609;
-            --color969: #fc0;
-            --color970: #31dd00;
-            --color971: #3eff06;
-            --color972: #3eff07;
-            --color973: #b900ff;
-            --color974: #36f201;
-            --color975: #36f200;
-            --color976: #39ff00;
-            --color977: #62ff35;
-            --color978: #65ff39;
-            --color979: #32de00;
-            --color980: #40e610;
-            --color981: #55f826;
-            --color982: #56fd26;
-            --color983: #65fd3a;
-            --color984: #66fd3c;
-            --color985: #37e005;
-            --color986: #5af42e;
-            --color987: #60f735;
-            --color988: #6ffc47;
-            --color989: #65fa3a;
-            --color990: #6efc46;
-            --color991: #68fc3e;
-            --color992: #d8d8d8;
-            --color993: #d7d7d7;
-            --color994: #d6d6d6;
-            --color995: #aeaeae;
+            --color597: #ffc900;
+            --color598: #e9c000;
+            --color599: #dfb800;
+            --color600: #ebc200;
+            --color601: #ceaa00;
+            --color602: #2c2500;
+            --color603: #1b1700;
+            --color604: #6f5c00;
+            --color605: #141100;
+            --color606: #352c00;
+            --color607: #d5b000;
+            --color608: #af9100;
+            --color609: #c3a100;
+            --color610: #be9d00;
+            --color611: #a48700;
+            --color612: #8f7600;
+            --color613: #efc500;
+            --color614: #9f8300;
+            --color615: #060500;
+            --color616: #040400;
+            --color617: #0b0900;
+            --color618: #a58800;
+            --color619: #917800;
+            --color620: #9b8000;
+            --color621: #050400;
+            --color622: #2f2805;
+            --color623: #ffd71c;
+            --color624: #ffd611;
+            --color625: #ffdb2f;
+            --color626: #0f0d02;
+            --color627: #ffd32c;
+            --color628: #1f1a00;
+            --color629: #3f3400;
+            --color630: #2f2700;
+            --color631: #0f0d04;
+            --color632: #ffdf49;
+            --color633: #0f0e04;
+            --color634: #2f2a0e;
+            --color635: #ffd40b;
+            --color636: #ffc700;
+            --color637: #ffdd3d;
+            --color638: #ffd839;
+            --color639: #ffd126;
+            --color640: #ffd50f;
+            --color641: #ffca13;
+            --color642: #ffc609;
+            --color643: #fc0;
+            --color644: #31dd00;
+            --color645: #3eff06;
+            --color646: #3eff07;
+            --color647: #b900ff;
+            --color648: #36f201;
+            --color649: #36f200;
+            --color650: #39ff00;
+            --color651: #62ff35;
+            --color652: #65ff39;
+            --color653: #32de00;
+            --color654: #40e610;
+            --color655: #55f826;
+            --color656: #56fd26;
+            --color657: #65fd3a;
+            --color658: #66fd3c;
+            --color659: #37e005;
+            --color660: #5af42e;
+            --color661: #60f735;
+            --color662: #6ffc47;
+            --color663: #65fa3a;
+            --color664: #6efc46;
+            --color665: #68fc3e;
+            --color666: #d8d8d8;
+            --color667: #d7d7d7;
+            --color668: #d6d6d6;
+            --color669: #aeaeae;
+            --color670: #1c0395;
+            --color671: #2b089c;
+            --color672: #2c079c;
+            --color673: #2c089c;
+            --color674: #2b099c;
+            --color675: #2a089b;
+            --color676: #240898;
+            --color677: #200697;
+            --color678: #1e0595;
+            --color679: #1b0594;
+            --color680: #190493;
+            --color681: #190393;
+            --color682: #190293;
+            --color683: #180293;
+            --color684: #170192;
+            --color685: #160192;
+            --color686: #2705c4;
+            --color687: #3909c9;
+            --color688: #3c0bca;
+            --color689: #3c0cca;
+            --color690: #3a0dc9;
+            --color691: #360ec8;
+            --color692: #330cc7;
+            --color693: #300ac7;
+            --color694: #2907c5;
+            --color695: #2605c4;
+            --color696: #2204c3;
+            --color697: #2103c2;
+            --color698: #2102c2;
+            --color699: #480dcd;
+            --color700: #430ccc;
+            --color701: #4e11cf;
+            --color702: #4f14cf;
+            --color703: #4b12ce;
+            --color704: #4512cc;
+            --color705: #3f10cb;
+            --color706: #390ec9;
+            --color707: #320bc7;
+            --color708: #2d09c6;
+            --color709: #2806c4;
+            --color710: #2505c3;
+            --color711: #2404c3;
+            --color712: #2104c2;
+            --color713: #1f01c2;
+            --color714: #1e01c2;
+            --color715: #8c22ff;
+            --color716: #6e19ff;
+            --color717: #6a1aff;
+            --color718: #6919ff;
+            --color719: #641dff;
+            --color720: #5e1dff;
+            --color721: #5318ff;
+            --color722: #4b14ff;
+            --color723: #440fff;
+            --color724: #3d0cff;
+            --color725: #3709ff;
+            --color726: #3208ff;
+            --color727: #2e06ff;
+            --color728: #2c04ff;
+            --color729: #2901ff;
+            --color730: #b72eff;
+            --color731: #a128ff;
+            --color732: #8c23ff;
+            --color733: #8224ff;
+            --color734: #7a28ff;
+            --color735: #7328ff;
+            --color736: #6723ff;
+            --color737: #5a1cff;
+            --color738: #5118ff;
+            --color739: #4611ff;
+            --color740: #3f0dff;
+            --color741: #3a0aff;
+            --color742: #2f06ff;
+            --color743: #2a03ff;
+            --color744: #2a02ff;
+            --color745: #2801ff;
+            --color746: #c834ff;
+            --color747: #c232ff;
+            --color748: #b130ff;
+            --color749: #a135ff;
+            --color750: #9136ff;
+            --color751: #8433ff;
+            --color752: #924aff;
+            --color753: #8948ff;
+            --color754: #7d42ff;
+            --color755: #693bff;
+            --color756: #d537ff;
+            --color757: #cf36ff;
+            --color758: #c738ff;
+            --color759: #bd4bff;
+            --color760: #bc57ff;
+            --color761: #ad56ff;
+            --color762: #a250ff;
+            --color763: #964eff;
+            --color764: #894aff;
+            --color765: #7f42ff;
+            --color766: #7340ff;
+            --color767: #e03cff;
+            --color768: #da39ff;
+            --color769: #d442ff;
+            --color770: #d860ff;
+            --color771: #d061ff;
+            --color772: #984eff;
+            --color773: #8b4aff;
+            --color774: #7640ff;
+            --color775: #6538ff;
+            --color776: #eb41ff;
+            --color777: #e53eff;
+            --color778: #e057ff;
+            --color779: #e067ff;
+            --color780: #dd68ff;
+            --color781: #c25eff;
+            --color782: #b65bff;
+            --color783: #984fff;
+            --color784: #8c4aff;
+            --color785: #f342ff;
+            --color786: #ed6bff;
+            --color787: #e96cff;
+            --color788: #e26dff;
+            --color789: #d365ff;
+            --color790: #c560ff;
+            --color791: #b75bff;
+            --color792: #f143ff;
+            --color793: #ed6dff;
+            --color794: #e66cff;
+            --color795: #d063ff;
+            --color796: #c15eff;
+            --color797: #b659ff;
+            --color798: #a855ff;
+            --color799: #5332ff;
+            --color800: #f643ff;
+            --color801: #f072ff;
+            --color802: #ed6fff;
+            --color803: #e56dff;
+            --color804: #db69ff;
+            --color805: #ce62ff;
+            --color806: #bf5fff;
+            --color807: #914dff;
+            --color808: #8346ff;
+            --color809: #763fff;
+            --color810: #5133ff;
+            --color811: #5132ff;
+            --color812: #fd46ff;
+            --color813: #fa45ff;
+            --color814: #f774ff;
+            --color815: #f471ff;
+            --color816: #e96fff;
+            --color817: #e46bff;
+            --color818: #d768ff;
+            --color819: #a755ff;
+            --color820: #9b50ff;
+            --color821: #8f4bff;
+            --color822: #8246ff;
+            --color823: #723fff;
+            --color824: #673aff;
+            --color825: #5433ff;
+            --color826: #fd47ff;
+            --color827: #fb75ff;
+            --color828: #e26bff;
+            --color829: #be5dff;
+            --color830: #b358ff;
+            --color831: #a655ff;
+            --color832: #9a50ff;
+            --color833: #8d4aff;
+            --color834: #8042ff;
+            --color835: #713eff;
+            --color836: #6738ff;
+            --color837: #4f2fff;
+            --color838: #fd76ff;
+            --color839: #e970ff;
+            --color840: #cb61ff;
+            --color841: #b25aff;
+            --color842: #a554ff;
+            --color843: #974fff;
+            --color844: #8b49ff;
+            --color845: #7b41ff;
+            --color846: #6e3dff;
+            --color847: #5835ff;
+            --color848: #d665ff;
+            --color849: #ca60ff;
+            --color850: #bd5eff;
+            --color851: #a453ff;
+            --color852: #954dff;
+            --color853: #8747ff;
+            --color854: #7840ff;
+            --color855: #5734ff;
+            --color856: #53f;
+            --color857: #5231ff;
+            --color858: #df69ff;
+            --color859: #ca63ff;
+            --color860: #bd5dff;
+            --color861: #b258ff;
+            --color862: #a252ff;
+            --color863: #934bff;
+            --color864: #8345ff;
+            --color865: #5030ff;
+            --color866: #de6aff;
+            --color867: #d566ff;
+            --color868: #ca62ff;
+            --color869: #bf5bff;
+            --color870: #b159ff;
+            --color871: #9f52ff;
+            --color872: #6939ff;
+            --color873: #6137ff;
+            --color874: #5a36ff;
+            --color875: #5632ff;
+            --color876: #5130ff;
+            --color877: #de69ff;
+            --color878: #d565ff;
+            --color879: #c863ff;
+            --color880: #bd5aff;
+            --color881: #7d43ff;
+            --color882: #703eff;
+            --color883: #6839ff;
+            --color884: #6037ff;
+            --color885: #5333ff;
+            --color886: #5131ff;
+            --color887: #2701ff;
+            --color888: #7b42ff;
+            --color889: #5e37ff;
+            --color890: #5836ff;
+            --color891: #5234ff;
+            --color892: #5232ff;
+            --color893: #2902ff;
+            --color894: #b959ff;
+            --color895: #6339ff;
+            --color896: #5c37ff;
+            --color897: #5733ff;
+            --color898: #5534ff;
+            --color899: #5233ff;
+            --color900: #2b03ff;
+            --color901: #f472ff;
+            --color902: #f173ff;
+            --color903: #ec6fff;
+            --color904: #c562ff;
+            --color905: #b85aff;
+            --color906: #763eff;
+            --color907: #693aff;
+            --color908: #7b5dff;
+            --color909: #5334ff;
+            --color910: #f574ff;
+            --color911: #ec70ff;
+            --color912: #e76eff;
+            --color913: #df6cff;
+            --color914: #d366ff;
+            --color915: #713cff;
+            --color916: #7d5fff;
+            --color917: #5633ff;
+            --color918: #2c06ff;
+            --color919: #fd77ff;
+            --color920: #fb76ff;
+            --color921: #f272ff;
+            --color922: #ee70ff;
+            --color923: #e96eff;
+            --color924: #dd6bff;
+            --color925: #ae56ff;
+            --color926: #7e60ff;
+            --color927: #5834ff;
+            --color928: #2d06ff;
+            --color929: #f875ff;
+            --color930: #f573ff;
+            --color931: #e86dff;
+            --color932: #db6aff;
+            --color933: #cc64ff;
+            --color934: #bc5fff;
+            --color935: #a856ff;
+            --color936: #8162ff;
+            --color937: #5b36ff;
+            --color938: #3007ff;
+            --color939: #f273ff;
+            --color940: #ee71ff;
+            --color941: #e76cff;
+            --color942: #d867ff;
+            --color943: #8463ff;
+            --color944: #5d37ff;
+            --color945: #3207ff;
+            --color946: #f675fe;
+            --color947: #f473ff;
+            --color948: #f073ff;
+            --color949: #e96dff;
+            --color950: #8961ff;
+            --color951: #6036ff;
+            --color952: #3708ff;
+            --color953: #fc77ff;
+            --color954: #f974ff;
+            --color955: #f775ff;
+            --color956: #f475ff;
+            --color957: #f179ff;
+            --color958: #ee83ff;
+            --color959: #de7dff;
+            --color960: #c96eff;
+            --color961: #bb68ff;
+            --color962: #aa61ff;
+            --color963: #9862ff;
+            --color964: #6d39ff;
+            --color965: #6233ff;
+            --color966: #3409ff;
+            --color967: #f7f;
+            --color968: #ff76ff;
+            --color969: #fd75ff;
+            --color970: #fb73ff;
+            --color971: #f872ff;
+            --color972: #f56eff;
+            --color973: #f26cff;
+            --color974: #eb68ff;
+            --color975: #d65dff;
+            --color976: #b24aff;
+            --color977: #9b40ff;
+            --color978: #863aff;
+            --color979: #6c36ff;
+            --color980: #5936ff;
+            --color981: #2d05ff;
+            --color982: #ff46ff;
+            --color983: #ff47ff;
+            --color984: #ff48ff;
+            --color985: #fd49ff;
+            --color986: #fa46ff;
+            --color987: #f644ff;
+            --color988: #f244ff;
+            --color989: #ed43ff;
+            --color990: #e43fff;
+            --color991: #c335ff;
+            --color992: #7e1dff;
+            --color993: #440dff;
+            --color994: #3105ff;
+            --color995: #2b05ff;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
@@ -1004,62 +1004,62 @@
     <path stroke="var(--color5, #ffc300)" d="M14 4h5M11 5h11M10 6h13M9 7h4M20 7h4M8 8h1M22 8h4M7 9h1M24 9h2M6 10h2M24 10h3M5 11h2M25 11h3M5 12h2M25 12h3M5 13h2M26 13h2M5 14h2M26 14h3M4 17h3M26 17h3M4 18h3M26 18h3M5 19h2M26 19h1M6 22h3M24 22h3M7 23h2M24 23h2M8 24h3M22 24h4M8 25h5M20 25h5M10 26h13M11 27h11M14 28h5" />
     <path stroke="var(--color427, #ffc200)" d="M19 4h1" />
     <path stroke="var(--color429, #fec200)" d="M8 7h1M24 7h1M7 8h1M26 9h1M26 23h1M7 24h1M9 26h1M23 26h1M13 28h1" />
-    <path stroke="var(--color969, #fc0)" d="M13 7h1M23 10h1M7 13h1M23 22h1M10 23h1M22 23h1" />
+    <path stroke="var(--color643, #fc0)" d="M13 7h1M23 10h1M7 13h1M23 22h1M10 23h1M22 23h1" />
     <path stroke="var(--color392, #ffd200)" d="M14 7h5M7 14h1M7 17h1M7 18h1" />
     <path stroke="var(--color385, #ffcd00)" d="M19 7h1M25 13h1M7 19h1M13 25h1" />
-    <path stroke="var(--color968, #ffc609)" d="M9 8h1" />
-    <path stroke="var(--color967, #ffca13)" d="M10 8h1" />
+    <path stroke="var(--color642, #ffc609)" d="M9 8h1" />
+    <path stroke="var(--color641, #ffca13)" d="M10 8h1" />
     <path stroke="var(--color2, #ffe04c)" d="M11 8h4M10 9h5M8 10h7M8 11h2M12 11h1M8 12h2" />
-    <path stroke="var(--color966, #ffd50f)" d="M15 8h1" />
+    <path stroke="var(--color640, #ffd50f)" d="M15 8h1" />
     <path stroke="var(--color3, #ffd300)" d="M16 8h5M16 9h6M16 10h7M16 11h1M19 11h2M23 11h1M16 12h1M19 12h2M23 12h2M16 13h1M23 13h2M8 14h2M16 14h1M23 14h3M8 15h3M15 15h3M22 15h1M8 16h15M8 17h18M8 18h4M15 18h4M21 18h5M8 19h4M16 19h1M21 19h4M8 20h4M21 20h1M9 21h4M20 21h2M10 22h13M11 23h11M12 24h9M14 25h5" />
     <path stroke="var(--color382, #ffc800)" d="M21 8h1M24 11h1M8 21h1M23 23h1M11 24h1" />
-    <path stroke="var(--color965, #ffd126)" d="M8 9h1" />
-    <path stroke="var(--color964, #ffd839)" d="M9 9h1" />
-    <path stroke="var(--color963, #ffdd3d)" d="M15 9h1" />
+    <path stroke="var(--color639, #ffd126)" d="M8 9h1" />
+    <path stroke="var(--color638, #ffd839)" d="M9 9h1" />
+    <path stroke="var(--color637, #ffdd3d)" d="M15 9h1" />
     <path stroke="var(--color414, #ffcb00)" d="M22 9h1M9 22h1" />
-    <path stroke="var(--color962, #ffc700)" d="M23 9h1M9 23h1" />
-    <path stroke="var(--color961, #ffd40b)" d="M15 10h1" />
+    <path stroke="var(--color636, #ffc700)" d="M23 9h1M9 23h1" />
+    <path stroke="var(--color635, #ffd40b)" d="M15 10h1" />
     <path stroke="var(--color420, #ffde47)" d="M7 11h1" />
-    <path stroke="var(--color960, #2f2a0e)" d="M10 11h1M10 12h1" />
-    <path stroke="var(--color959, #0f0e04)" d="M11 11h1" />
-    <path stroke="var(--color958, #ffdf49)" d="M13 11h1" />
-    <path stroke="var(--color957, #0f0d04)" d="M14 11h1" />
-    <path stroke="var(--color956, #2f2700)" d="M15 11h1M15 12h1M15 13h1M10 14h1M15 14h1M11 15h4M18 15h4" />
-    <path stroke="var(--color955, #3f3400)" d="M17 11h1M17 12h1M17 13h1M17 14h1" />
+    <path stroke="var(--color634, #2f2a0e)" d="M10 11h1M10 12h1" />
+    <path stroke="var(--color633, #0f0e04)" d="M11 11h1" />
+    <path stroke="var(--color632, #ffdf49)" d="M13 11h1" />
+    <path stroke="var(--color631, #0f0d04)" d="M14 11h1" />
+    <path stroke="var(--color630, #2f2700)" d="M15 11h1M15 12h1M15 13h1M10 14h1M15 14h1M11 15h4M18 15h4" />
+    <path stroke="var(--color629, #3f3400)" d="M17 11h1M17 12h1M17 13h1M17 14h1" />
     <path stroke="var(--color1, #000)" d="M18 11h1M18 12h1M18 13h1M11 14h1M14 14h1M18 14h1M21 14h1M13 18h1M19 18h1M13 19h1M19 19h1M14 20h1M18 20h1M15 21h3" />
-    <path stroke="var(--color954, #1f1a00)" d="M21 11h2M21 12h2M22 13h1M22 14h1" />
-    <path stroke="var(--color953, #ffd32c)" d="M7 12h1" />
-    <path stroke="var(--color952, #0f0d02)" d="M11 12h1" />
-    <path stroke="var(--color951, #ffdb2f)" d="M12 12h1" />
-    <path stroke="var(--color950, #ffd611)" d="M13 12h1" />
+    <path stroke="var(--color628, #1f1a00)" d="M21 11h2M21 12h2M22 13h1M22 14h1" />
+    <path stroke="var(--color627, #ffd32c)" d="M7 12h1" />
+    <path stroke="var(--color626, #0f0d02)" d="M11 12h1" />
+    <path stroke="var(--color625, #ffdb2f)" d="M12 12h1" />
+    <path stroke="var(--color624, #ffd611)" d="M13 12h1" />
     <path stroke="var(--color395, #0f0d00)" d="M14 12h1" />
     <path stroke="var(--color431, #909090)" d="M28 12h3M28 13h3M1 14h4M29 14h2M1 15h7M23 15h8M4 16h4M23 16h8M1 19h4M27 19h4M1 20h7M22 20h9M4 21h4M22 21h7" />
-    <path stroke="var(--color949, #ffd71c)" d="M8 13h2" />
-    <path stroke="var(--color948, #2f2805)" d="M10 13h1" />
-    <path stroke="var(--color947, #050400)" d="M11 13h1M14 13h1M12 14h2" />
-    <path stroke="var(--color946, #9b8000)" d="M12 13h2" />
-    <path stroke="var(--color945, #917800)" d="M19 13h1" />
-    <path stroke="var(--color944, #a58800)" d="M20 13h1" />
-    <path stroke="var(--color943, #0b0900)" d="M21 13h1" />
-    <path stroke="var(--color942, #040400)" d="M19 14h1" />
-    <path stroke="var(--color941, #060500)" d="M20 14h1" />
-    <path stroke="var(--color940, #9f8300)" d="M12 18h1M12 19h1" />
-    <path stroke="var(--color939, #efc500)" d="M14 18h1" />
-    <path stroke="var(--color938, #8f7600)" d="M20 18h1M20 19h1" />
-    <path stroke="var(--color937, #a48700)" d="M14 19h1" />
-    <path stroke="var(--color936, #be9d00)" d="M15 19h1" />
-    <path stroke="var(--color935, #c3a100)" d="M17 19h1" />
-    <path stroke="var(--color934, #af9100)" d="M18 19h1" />
+    <path stroke="var(--color623, #ffd71c)" d="M8 13h2" />
+    <path stroke="var(--color622, #2f2805)" d="M10 13h1" />
+    <path stroke="var(--color621, #050400)" d="M11 13h1M14 13h1M12 14h2" />
+    <path stroke="var(--color620, #9b8000)" d="M12 13h2" />
+    <path stroke="var(--color619, #917800)" d="M19 13h1" />
+    <path stroke="var(--color618, #a58800)" d="M20 13h1" />
+    <path stroke="var(--color617, #0b0900)" d="M21 13h1" />
+    <path stroke="var(--color616, #040400)" d="M19 14h1" />
+    <path stroke="var(--color615, #060500)" d="M20 14h1" />
+    <path stroke="var(--color614, #9f8300)" d="M12 18h1M12 19h1" />
+    <path stroke="var(--color613, #efc500)" d="M14 18h1" />
+    <path stroke="var(--color612, #8f7600)" d="M20 18h1M20 19h1" />
+    <path stroke="var(--color611, #a48700)" d="M14 19h1" />
+    <path stroke="var(--color610, #be9d00)" d="M15 19h1" />
+    <path stroke="var(--color609, #c3a100)" d="M17 19h1" />
+    <path stroke="var(--color608, #af9100)" d="M18 19h1" />
     <path stroke="var(--color30, #ffce00)" d="M25 19h1M19 25h1" />
-    <path stroke="var(--color933, #d5b000)" d="M12 20h1" />
-    <path stroke="var(--color932, #352c00)" d="M13 20h1" />
-    <path stroke="var(--color931, #141100)" d="M15 20h1" />
-    <path stroke="var(--color930, #6f5c00)" d="M16 20h1" />
-    <path stroke="var(--color929, #1b1700)" d="M17 20h1" />
-    <path stroke="var(--color928, #2c2500)" d="M19 20h1" />
-    <path stroke="var(--color927, #ceaa00)" d="M20 20h1" />
-    <path stroke="var(--color926, #ebc200)" d="M13 21h1" />
-    <path stroke="var(--color925, #dfb800)" d="M14 21h1M18 21h1" />
-    <path stroke="var(--color924, #e9c000)" d="M19 21h1" />
-    <path stroke="var(--color923, #ffc900)" d="M21 24h1" />
+    <path stroke="var(--color607, #d5b000)" d="M12 20h1" />
+    <path stroke="var(--color606, #352c00)" d="M13 20h1" />
+    <path stroke="var(--color605, #141100)" d="M15 20h1" />
+    <path stroke="var(--color604, #6f5c00)" d="M16 20h1" />
+    <path stroke="var(--color603, #1b1700)" d="M17 20h1" />
+    <path stroke="var(--color602, #2c2500)" d="M19 20h1" />
+    <path stroke="var(--color601, #ceaa00)" d="M20 20h1" />
+    <path stroke="var(--color600, #ebc200)" d="M13 21h1" />
+    <path stroke="var(--color599, #dfb800)" d="M14 21h1M18 21h1" />
+    <path stroke="var(--color598, #e9c000)" d="M19 21h1" />
+    <path stroke="var(--color597, #ffc900)" d="M21 24h1" />
 </svg>
