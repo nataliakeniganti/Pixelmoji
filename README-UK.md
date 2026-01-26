@@ -6,7 +6,7 @@
 * Скріпка та пов'язані скріпки
 * Кільце та дорогоцінний камінь
 * Ланцюжки
-* <img width="16" height="16" alt="shaking_face" src="png/shaking_face.png" /> Тремтяче обличчя
+* <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Тремтяче обличчя
 * Крапля
 * Бризки
 * Обличчя з мішками під очима

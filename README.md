@@ -6,7 +6,7 @@ Coverage:
 * Paperclip and linked paperclips
 * Ring and Gem stone
 * Chains
-* <img width="16" height="16" alt="shaking_face" src="png/shaking_face.png" /> Shaking Face
+* <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Shaking Face
 * Droplet
 * Splatter
 * Face with Bags Under Eyes

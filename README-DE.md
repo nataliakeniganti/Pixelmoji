@@ -6,7 +6,7 @@ Abdeckung:
 * Büroklammer und verbundene Büroklammern
 * Ring und Edelstein
 * Ketten
-* <img width="16" height="16" alt="shaking_face" src="png/shaking_face.png" /> Schüttelndes Gesicht
+* <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Schüttelndes Gesicht
 * Tropfen
 * Spritzer
 * Gesicht mit Augenringen
