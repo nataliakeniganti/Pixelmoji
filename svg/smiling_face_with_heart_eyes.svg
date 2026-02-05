@@ -1422,6 +1422,39 @@
             --color1418: #5f9200;
             --color1419: #75b400;
             --color1420: #414141;
+            --color1421: #ffd000;
+            --color1422: #ffd510;
+            --color1423: #ffd927;
+            --color1424: #ffdb2f;
+            --color1425: #ffd119;
+            --color1426: #ffd618;
+            --color1427: #ffdc37;
+            --color1428: #ffdf47;
+            --color1429: #ffd32d;
+            --color1430: #ffc608;
+            --color1431: #ffd71c;
+            --color1432: #ffdf4b;
+            --color1433: #ffcd1c;
+            --color1434: #ffc403;
+            --color1435: #ffc900;
+            --color1436: #ffd71a;
+            --color1437: #ffdd3f;
+            --color1438: #ffdd46;
+            --color1439: #ffd532;
+            --color1440: #fec405;
+            --color1441: #ffca00;
+            --color1442: #ffd005;
+            --color1443: #ffd10e;
+            --color1444: #ffcd13;
+            --color1445: #ffc911;
+            --color1446: #ffc609;
+            --color1447: #fec302;
+            --color1448: #e0ac00;
+            --color1449: #f5bb00;
+            --color1450: #ffc712;
+            --color1451: #ffcd2c;
+            --color1452: #db9e00;
+            --color1453: #eaa900;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
