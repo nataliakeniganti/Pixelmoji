@@ -1062,107 +1062,106 @@
             --color1058: #58db29;
             --color1059: #707070;
             --color1060: #272727;
-            --color1061: #ccc;
-            --color1062: #696969;
-            --color1063: #00aeff;
-            --color1064: #ffcda9;
-            --color1065: #aaa;
-            --color1066: #997357;
-            --color1067: #ffe1cd;
-            --color1068: #e7ffff;
-            --color1069: #b5b5b5;
-            --color1070: #b58656;
-            --color1071: #fed978;
-            --color1072: #ffd462;
-            --color1073: #ffc42c;
-            --color1074: #ffc01d;
-            --color1075: #c48e00;
-            --color1076: #e0a200;
-            --color1077: #ffbe15;
-            --color1078: #856342;
-            --color1079: #ffe49e;
-            --color1080: #ffcd4c;
-            --color1081: #acacac;
-            --color1082: #b0b0b0;
-            --color1083: #c4c4c4;
-            --color1084: #474747;
-            --color1085: #727272;
-            --color1086: #b9b9b9;
-            --color1087: #3a3a3a;
-            --color1088: #2f2f2f;
-            --color1089: #c2c2c2;
-            --color1090: #940000;
-            --color1091: #e20000;
-            --color1092: #4d7600;
-            --color1093: #84cb00;
-            --color1094: #5f9200;
-            --color1095: #75b400;
-            --color1096: #414141;
-            --color1097: #ffd000;
-            --color1098: #ffd510;
-            --color1099: #ffd927;
-            --color1100: #ffdb2f;
-            --color1101: #ffd119;
-            --color1102: #ffd618;
-            --color1103: #ffdc37;
-            --color1104: #ffdf47;
-            --color1105: #ffd32d;
-            --color1106: #ffc608;
-            --color1107: #ffd71c;
-            --color1108: #ffdf4b;
-            --color1109: #ffcd1c;
-            --color1110: #ffc403;
-            --color1111: #ffc900;
-            --color1112: #ffd71a;
-            --color1113: #ffdd3f;
-            --color1114: #ffdd46;
-            --color1115: #ffd532;
-            --color1116: #fec405;
-            --color1117: #ffca00;
-            --color1118: #ffd005;
-            --color1119: #ffd10e;
-            --color1120: #ffcd13;
-            --color1121: #ffc911;
-            --color1122: #ffc609;
-            --color1123: #fec302;
-            --color1124: #e0ac00;
-            --color1125: #f5bb00;
-            --color1126: #ffc712;
-            --color1127: #ffcd2c;
-            --color1128: #db9e00;
-            --color1129: #eaa900;
-            --color1130: #fbd41a;
-            --color1131: #ffdb31;
-            --color1132: #fed824;
-            --color1133: #fff2b2;
-            --color1134: #ffe777;
-            --color1135: #ffad00;
-            --color1136: #002863;
-            --color1137: #8a8a8a;
-            --color1138: #8f989d;
-            --color1139: #a2afb7;
-            --color1140: #98acb7;
-            --color1141: #90a2ac;
-            --color1142: #a0a0a1;
-            --color1143: #abc2cf;
-            --color1144: #343434;
+            --color1061: #b58656;
+            --color1062: #fed978;
+            --color1063: #ffd462;
+            --color1064: #ffc42c;
+            --color1065: #ffc01d;
+            --color1066: #c48e00;
+            --color1067: #e0a200;
+            --color1068: #ffbe15;
+            --color1069: #856342;
+            --color1070: #ffe49e;
+            --color1071: #ffcd4c;
+            --color1072: #acacac;
+            --color1073: #b0b0b0;
+            --color1074: #c4c4c4;
+            --color1075: #474747;
+            --color1076: #727272;
+            --color1077: #b9b9b9;
+            --color1078: #ccc;
+            --color1079: #3a3a3a;
+            --color1080: #2f2f2f;
+            --color1081: #c2c2c2;
+            --color1082: #940000;
+            --color1083: #e20000;
+            --color1084: #4d7600;
+            --color1085: #84cb00;
+            --color1086: #5f9200;
+            --color1087: #75b400;
+            --color1088: #414141;
+            --color1089: #00aeff;
+            --color1090: #ffd000;
+            --color1091: #ffd510;
+            --color1092: #ffd927;
+            --color1093: #ffdb2f;
+            --color1094: #ffd119;
+            --color1095: #ffd618;
+            --color1096: #ffdc37;
+            --color1097: #ffdf47;
+            --color1098: #ffd32d;
+            --color1099: #ffc608;
+            --color1100: #ffd71c;
+            --color1101: #ffdf4b;
+            --color1102: #ffcd1c;
+            --color1103: #ffc403;
+            --color1104: #ffc900;
+            --color1105: #ffd71a;
+            --color1106: #ffdd3f;
+            --color1107: #ffdd46;
+            --color1108: #ffd532;
+            --color1109: #fec405;
+            --color1110: #ffca00;
+            --color1111: #ffd005;
+            --color1112: #ffd10e;
+            --color1113: #ffcd13;
+            --color1114: #ffc911;
+            --color1115: #ffc609;
+            --color1116: #fec302;
+            --color1117: #e0ac00;
+            --color1118: #f5bb00;
+            --color1119: #ffc712;
+            --color1120: #ffcd2c;
+            --color1121: #db9e00;
+            --color1122: #eaa900;
+            --color1123: #fbd41a;
+            --color1124: #ffdb31;
+            --color1125: #fed824;
+            --color1126: #fff2b2;
+            --color1127: #ffe777;
+            --color1128: #ffad00;
+            --color1129: #002863;
+            --color1130: #8a8a8a;
+            --color1131: #8f989d;
+            --color1132: #a2afb7;
+            --color1133: #98acb7;
+            --color1134: #90a2ac;
+            --color1135: #a0a0a1;
+            --color1136: #abc2cf;
+            --color1137: #343434;
+            --color1138: #696969;
+            --color1139: #ffcda9;
+            --color1140: #997357;
+            --color1141: #ffe1cd;
+            --color1142: #e7ffff;
+            --color1143: #b5b5b5;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
     <path stroke="var(--color632, #909090)" d="M20 1h9M28 2h2M29 3h1M20 4h5M29 4h2M24 5h3M30 5h1M26 6h2M30 6h1M21 7h3M27 7h1M30 7h1M23 8h2M27 8h1M30 8h1M24 9h1M27 9h1M30 9h1M24 10h1M27 10h1M30 10h1" />
     <path stroke="var(--color59, #a3a3a3)" d="M9 4h8M8 5h1M16 5h3M17 6h2M6 7h1M18 7h2M5 8h2M19 8h2M5 9h2M21 9h1M5 10h2M21 10h2M5 11h2M22 11h2M5 12h2M23 12h2M6 13h1M24 13h2M6 14h1M25 14h2M6 15h1M25 15h3M6 16h2M12 16h1M15 16h2M26 16h2M7 17h2M12 17h6M26 17h2M8 18h2M13 18h5M26 18h2M9 19h2M15 19h2M26 19h2M10 20h2M26 20h1M12 21h2M26 21h1M13 22h2M25 22h2M12 23h1M14 23h2M25 23h1M12 24h2M15 24h2M22 24h3M13 25h2M16 25h6M5 26h1M14 26h1M6 27h1M7 28h1M8 29h1M9 30h1" />
-    <path stroke="var(--color1089, #c2c2c2)" d="M9 5h7M7 6h3M15 6h2M7 7h3M17 7h1M7 8h2M18 8h1M7 9h2M19 9h2M7 10h2M7 11h2M21 11h1M7 12h2M22 12h1M7 13h2M23 13h1M7 14h2M24 14h1M7 15h3M13 15h2M24 15h1M8 16h3M13 16h2M25 16h1M5 17h1M9 17h3M25 17h1M6 18h1M10 18h3M25 18h1M7 19h1M11 19h4M25 19h1M12 20h4M25 20h1M14 21h3M24 21h2M1 22h1M15 22h3M24 22h1M1 23h1M16 23h9M2 24h1M17 24h5M3 25h1" />
+    <path stroke="var(--color1081, #c2c2c2)" d="M9 5h7M7 6h3M15 6h2M7 7h3M17 7h1M7 8h2M18 8h1M7 9h2M19 9h2M7 10h2M7 11h2M21 11h1M7 12h2M22 12h1M7 13h2M23 13h1M7 14h2M24 14h1M7 15h3M13 15h2M24 15h1M8 16h3M13 16h2M25 16h1M5 17h1M9 17h3M25 17h1M6 18h1M10 18h3M25 18h1M7 19h1M11 19h4M25 19h1M12 20h4M25 20h1M14 21h3M24 21h2M1 22h1M15 22h3M24 22h1M1 23h1M16 23h9M2 24h1M17 24h5M3 25h1" />
     <path stroke="var(--color1060, #272727)" d="M10 6h5M10 7h4M9 8h5M9 9h5M9 10h4M9 11h4M9 12h4M9 13h4M9 14h5M10 15h3M11 16h1M4 19h2M3 20h1M6 20h1M16 20h5M2 21h1M7 21h1M17 21h7M2 22h1M8 22h1M18 22h6M3 23h1M9 23h1M4 24h1M9 24h2M5 25h1M8 25h4M6 26h7M7 27h6M8 28h4M9 29h2" />
-    <path stroke="var(--color1088, #2f2f2f)" d="M14 7h3M14 8h4M14 9h5M13 10h2M20 10h1M13 11h2M13 12h2M13 13h2M18 18h6M17 19h8M21 20h4M7 23h2M6 24h3M6 25h2" />
-    <path stroke="var(--color1087, #3a3a3a)" d="M15 10h5M15 11h6M15 12h7M17 13h6M18 14h6M19 15h5M20 16h5M19 17h6M24 18h1M6 22h2M5 23h2M5 24h1" />
-    <path stroke="var(--color1061, #ccc)" d="M15 13h1M15 14h2M16 15h2M17 16h2M18 17h1" />
-    <path stroke="var(--color1086, #b9b9b9)" d="M16 13h1M14 14h1M17 14h1M15 15h1M18 15h1M19 16h1" />
-    <path stroke="var(--color1085, #727272)" d="M6 17h1M7 18h1M8 19h1M9 20h1M10 21h2M12 22h1M13 23h1M14 24h1M15 25h1" />
+    <path stroke="var(--color1080, #2f2f2f)" d="M14 7h3M14 8h4M14 9h5M13 10h2M20 10h1M13 11h2M13 12h2M13 13h2M18 18h6M17 19h8M21 20h4M7 23h2M6 24h3M6 25h2" />
+    <path stroke="var(--color1079, #3a3a3a)" d="M15 10h5M15 11h6M15 12h7M17 13h6M18 14h6M19 15h5M20 16h5M19 17h6M24 18h1M6 22h2M5 23h2M5 24h1" />
+    <path stroke="var(--color1078, #ccc)" d="M15 13h1M15 14h2M16 15h2M17 16h2M18 17h1" />
+    <path stroke="var(--color1077, #b9b9b9)" d="M16 13h1M14 14h1M17 14h1M15 15h1M18 15h1M19 16h1" />
+    <path stroke="var(--color1076, #727272)" d="M6 17h1M7 18h1M8 19h1M9 20h1M10 21h2M12 22h1M13 23h1M14 24h1M15 25h1" />
     <path stroke="var(--color1034, #e0e0e0)" d="M5 18h1M6 19h1M7 20h1M8 21h1M9 22h1M2 23h1M10 23h1M3 24h1M11 24h1M12 25h1M13 26h1" />
-    <path stroke="var(--color1084, #474747)" d="M4 20h2M3 21h4M3 22h3M4 23h1" />
-    <path stroke="var(--color1083, #c4c4c4)" d="M8 20h1" />
-    <path stroke="var(--color1082, #b0b0b0)" d="M9 21h1" />
-    <path stroke="var(--color1081, #acacac)" d="M10 22h2M11 23h1" />
+    <path stroke="var(--color1075, #474747)" d="M4 20h2M3 21h4M3 22h3M4 23h1" />
+    <path stroke="var(--color1074, #c4c4c4)" d="M8 20h1" />
+    <path stroke="var(--color1073, #b0b0b0)" d="M9 21h1" />
+    <path stroke="var(--color1072, #acacac)" d="M10 22h2M11 23h1" />
     <path stroke="var(--color61, #d1d1d1)" d="M4 25h1" />
     <path stroke="var(--color55, #7a7a7a)" d="M4 26h1M5 27h1M6 28h1M7 29h1M8 30h1" />
 </svg>
