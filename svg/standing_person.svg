@@ -1131,11 +1131,26 @@
             --color1127: #ffcd2c;
             --color1128: #db9e00;
             --color1129: #eaa900;
+            --color1130: #fbd41a;
+            --color1131: #ffdb31;
+            --color1132: #fed824;
+            --color1133: #fff2b2;
+            --color1134: #ffe777;
+            --color1135: #ffad00;
+            --color1136: #002863;
+            --color1137: #8a8a8a;
+            --color1138: #8f989d;
+            --color1139: #a2afb7;
+            --color1140: #98acb7;
+            --color1141: #90a2ac;
+            --color1142: #a0a0a1;
+            --color1143: #abc2cf;
+            --color1144: #343434;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
-    <path stroke="var(--color939, #ffb800)" d="M17 3h1M13 4h5M12 5h7M11 6h2M15 6h2M18 6h2M11 7h1M19 7h1M11 8h1M19 8h1M11 9h2M18 9h2M12 10h1M18 10h1M12 11h2M17 11h2" />
-    <path stroke="var(--color8, #ffd300)" d="M13 6h2M17 6h1M12 7h7M12 8h7M13 9h5M13 10h5M14 11h3M15 12h1M10 18h1M20 18h1M10 19h1M20 19h1" />
+    <path stroke="var(--color939, #ffb800)" d="M14 5h3M13 6h5M12 7h1M16 7h1M18 7h1M12 10h1M18 10h1M12 11h2M17 11h2" />
+    <path stroke="var(--color8, #ffd300)" d="M13 7h3M17 7h1M12 8h7M12 9h7M13 10h5M14 11h3M15 12h1M10 18h1M20 18h1M10 19h1M20 19h1" />
     <path stroke="var(--color938, #ff9600)" d="M13 12h2M16 12h2M12 13h7M11 14h9M11 15h1M13 15h5M19 15h1M11 16h1M13 16h5M19 16h1M10 17h1M13 17h5M20 17h1M13 18h5" />
     <path stroke="var(--color59, #a3a3a3)" d="M13 19h5M13 20h5M13 21h2M16 21h2M13 22h2M16 22h2M13 23h2M16 23h2M13 24h2M16 24h2M13 25h2M16 25h2M13 26h2M16 26h2" />
     <path stroke="var(--color1096, #414141)" d="M13 27h2M16 27h2" />
