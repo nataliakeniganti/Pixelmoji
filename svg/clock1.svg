@@ -1145,6 +1145,34 @@
             --color1141: #ffe1cd;
             --color1142: #e7ffff;
             --color1143: #b5b5b5;
+            --color1144: #94a3b8;
+            --color1145: #808080;
+            --color1146: #c2c3c7;
+            --color1147: #add8e6;
+            --color1148: #fff2cc;
+            --color1149: #ed1c24;
+            --color1150: #5d4037;
+            --color1151: #f5f5f5;
+            --color1152: #ffd700;
+            --color1153: #daa520;
+            --color1154: #006c00;
+            --color1155: #0f0;
+            --color1156: #009f00;
+            --color1157: #130099;
+            --color1158: #222;
+            --color1159: #555;
+            --color1160: #fc0;
+            --color1161: #0a0a0a;
+            --color1162: #4b3621;
+            --color1163: #d2b48c;
+            --color1164: #c3a07a;
+            --color1165: #a67c52;
+            --color1166: #0c0;
+            --color1167: #0ff;
+            --color1168: #5d3a1a;
+            --color1169: #4682b4;
+            --color1170: #f5f5dc;
+            --color1171: #8b4513;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
