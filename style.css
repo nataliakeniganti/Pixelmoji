@@ -11,7 +11,7 @@
     font-family: "Pixelmoji-2.0";
     base-palette: 0
 }
-.icon {
+.emoji {
     /* Use !important to prevent extensions from overriding this font. */
     font-family: "Pixelmoji-2.0" !important;
     font-style: normal;
