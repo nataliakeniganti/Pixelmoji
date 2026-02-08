@@ -1187,8 +1187,11 @@
             --color1183: #c68e17;
             --color1184: #ff0;
             --color1185: #f33;
+            --color1186: #ffa3e1;
+            --color1187: #e5e3df;
+            --color1188: #d1cfc3;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
-    <path stroke="currentColor" d="M24 3h5M14 4h15M9 5h20M9 6h20M9 7h15M28 7h1M9 8h5M28 8h1M9 9h1M28 9h1M9 10h1M28 10h1M9 11h1M28 11h1M9 12h1M28 12h1M9 13h1M28 13h1M9 14h1M28 14h1M9 15h1M28 15h1M9 16h1M28 16h1M9 17h1M28 17h1M9 18h1M28 18h1M9 19h1M28 19h1M9 20h1M28 20h1M9 21h1M28 21h1M5 22h5M24 22h5M4 23h6M23 23h6M3 24h7M22 24h7M3 25h7M22 25h7M3 26h7M22 26h7M5 27h3M24 27h3" />
+    <path stroke="var(--color47, #9700ff)" d="M24 3h5M14 4h15M9 5h20M9 6h20M9 7h15M28 7h1M9 8h5M28 8h1M9 9h1M28 9h1M9 10h1M28 10h1M9 11h1M28 11h1M9 12h1M28 12h1M9 13h1M28 13h1M9 14h1M28 14h1M9 15h1M28 15h1M9 16h1M28 16h1M9 17h1M28 17h1M9 18h1M28 18h1M9 19h1M28 19h1M9 20h1M28 20h1M3 21h7M22 21h7M2 22h8M21 22h8M1 23h9M20 23h9M1 24h9M20 24h9M1 25h9M20 25h9M1 26h9M20 26h9M2 27h6M21 27h6" />
 </svg>
