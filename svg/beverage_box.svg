@@ -1173,6 +1173,20 @@
             --color1169: #4682b4;
             --color1170: #f5f5dc;
             --color1171: #8b4513;
+            --color1172: #9b59b6;
+            --color1173: #a0a0a0;
+            --color1174: #c17300;
+            --color1175: #e49b0f;
+            --color1176: #e0f7fa;
+            --color1177: #d4af37;
+            --color1178: #b8860b;
+            --color1179: #e4b376;
+            --color1180: #444;
+            --color1181: #ff69b4;
+            --color1182: #888;
+            --color1183: #c68e17;
+            --color1184: #ff0;
+            --color1185: #f33;
         }
     </style>
     <metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
