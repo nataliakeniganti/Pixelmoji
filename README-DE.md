@@ -1,8 +1,8 @@
 # Pixelmoji Schriftart 😀
 Pixelmoji ist eine pixelige Emoji-Schriftart.
 
-Abdeckung:
-* Vergessenes Emoji „Sehr dicker Berg“
+Enthält:
+* Emoji „Sehr dick/Bergperson“ vergessen
 * Büroklammer und verbundene Büroklammern
 * Ring und Edelstein
 * Ketten
@@ -13,12 +13,18 @@ Abdeckung:
 * Berg
 * Rad
 * Auto
-* Entfernte weiße Flagge
+* Doppelte weiße Flagge entfernt
 * Minibus
-* Plestress-Gesicht?
+* Stressgesicht?
+
 * Lebhaftes Gesicht?
+
 * Vene?
+
 * Hamsa
 * Khanda
 * <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Passkontrolle
-* <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Zoll
+* <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Benutzerdefinierte Einstellungen
+
+## Credits
+https://r74n.com/pixelflags/

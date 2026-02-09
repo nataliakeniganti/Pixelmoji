@@ -15,10 +15,13 @@
 * Автомобіль
 * Видалено дублікат білого прапора
 * Мікроавтобус
-* Обличчя пристрасного?
+* Обличчя Плеспреса?
 * Жваве обличчя?
 * Вейнза?
 * Хамса
 * Ханда
 * <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Паспортний контроль
 * <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Митниця
+
+## Авторські права
+https://r74n.com/pixelflags/
