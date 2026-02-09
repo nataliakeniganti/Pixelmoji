@@ -12,7 +12,7 @@ Coverage:
 * Face with Bags Under Eyes
 * Mountatin
 * Wheel
-* Automobile
+* <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> Automobile
 * Removed duplicate white flag
 * Minibus
 * Plestress Face?

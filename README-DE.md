@@ -12,7 +12,7 @@ Enthält:
 * Gesicht mit Augenringen
 * Berg
 * Rad
-* Auto
+* <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> Auto
 * Doppelte weiße Flagge entfernt
 * Minibus
 * Stressgesicht?
