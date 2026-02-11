@@ -2,7 +2,6 @@
 Pixelmoji font its pixelated emojis artwork.
 
 Coverage:
-* Forgot Very Fat/Mountain person emoji
 * Paperclip and linked paperclips
 * Ring and Gem stone
 * Chains

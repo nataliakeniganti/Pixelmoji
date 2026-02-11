@@ -2,7 +2,6 @@
 Pixelmoji ist eine pixelige Emoji-Schriftart.
 
 Enthält:
-* Emoji „Sehr dick/Bergperson“ vergessen
 * Büroklammer und verbundene Büroklammern
 * Ring und Edelstein
 * Ketten
