@@ -1,5 +1,5 @@
-# Pixelmoji font 😀
-Pixelmoji font is an pixelated emojis artwork font.
+# Pixelmoji Font 😀
+Pixelmoji is an font that features pixelated emojis.
 
 Changelogs:
 * Added Paperclip and Linked Paperclips
