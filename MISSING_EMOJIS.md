@@ -14,10 +14,8 @@ Missing Emojis:
 * Minibus
 * Bus
 * Trolleybus
-* Minibus
 * Ambulance
 * Hamsa
-* Khanda
 * Fleur-de-lis
 * Trident Emblem
 * Name Badge
