@@ -1,7 +1,7 @@
 # Pixelmoji Font 😀
 
 Missing Emojis:
-* Paperclip and Linked Paperclips
+* Globe Showing Americas
 * Ring and Gem Stone
 * Chains
 * Key
