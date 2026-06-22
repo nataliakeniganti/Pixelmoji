@@ -8,8 +8,6 @@ Changelogs:
 * Added Face with Bags Under Eyes
 * Added <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> Automobile
 * Removed some duplicated white flags
-* Added Minibus
-* Added Hamsa
 * Added Khanda
 * Added <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Passport control
 * Added <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Customs
