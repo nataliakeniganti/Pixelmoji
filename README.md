@@ -1,26 +1,16 @@
-# Pixelmoji font 😀
-Pixelmoji font its pixelated emojis artwork.
+# Pixelmoji Font 😀
+Pixelmoji is an font that features pixelated emojis.
 
-Coverage:
-* Paperclip and linked paperclips
-* Ring and Gem stone
-* Chains
-* <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Shaking Face
-* Droplet
-* Splatter
-* Face with Bags Under Eyes
-* Mountatin
-* Wheel
-* <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> Automobile
-* Removed duplicate white flag
-* Minibus
-* Plestress Face?
-* Vivacious Face?
-* Veinza?
-* Hamsa
-* Khanda
-* <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Passport control
-* <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Customs
+Changelogs:
+* Added Paperclip and Linked Paperclips
+* Added <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Shaking Face
+* Added Splatter
+* Added Face with Bags Under Eyes
+* Added <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> Automobile
+* Removed some duplicated white flags
+* Added Khanda
+* Added <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Passport control
+* Added <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Customs
 
 ## Credits
 https://r74n.com/pixelflags/
