@@ -1,26 +1,16 @@
 # Шрифт Pixelmoji 😀
-Шрифт Pixelmoji — це піксельні емодзі.
+Pixelmoji – це шрифт, який містить піксельні емодзі.
 
-Охоплення:
-* Скріпка та пов'язані скріпки
-* Кільце та дорогоцінний камінь
-* Ланцюжки
-* <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Тремтяче обличчя
-* Крапля
-* Бризки
-* Обличчя з мішками під очима
-* Гора
-* Колесо
-* <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> Автомобіль
-* Видалено дублікат білого прапора
-* Мікроавтобус
-* Обличчя Плеспреса?
-* Жваве обличчя?
-* Вейнза?
-* Хамса
-* Ханда
-* <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> Паспортний контроль
-* <img width="16" height="16" alt="customs" src="svg/customs.svg" /> Митниця
+Журнали змін:
+* Додано скріпку та пов'язані скріпки
+* Додано <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> тремтяче обличчя
+* Додано бризки
+* Додано обличчя з мішками під очима
+* Додано <img width="16" height="16" alt="automobile" src="svg/automobile.svg" /> автомобіль
+* Видалено деякі дублікати білих прапорів
+* Додано Ханду
+* Додано <img width="16" height="16" alt="passport_control" src="svg/passport_control.svg" /> паспортний контроль
+* Додано <img width="16" height="16" alt="customs" src="svg/customs.svg" /> митний контроль
 
 ## Авторські права
 https://r74n.com/pixelflags/
