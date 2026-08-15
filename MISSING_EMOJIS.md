@@ -1,7 +1,6 @@
 # Pixelmoji Font 😀
 
 Missing Emojis:
-* Globe Showing Americas
 * Ring and Gem Stone
 * Chains
 * Key
