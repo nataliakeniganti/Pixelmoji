@@ -1,7 +1,6 @@
 # Pixelmoji Font 😀
 
 Missing Emojis:
-* Ring and Gem Stone
 * Chains
 * Key
 * Droplet
