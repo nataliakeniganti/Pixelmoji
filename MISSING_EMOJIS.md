@@ -1,9 +1,7 @@
 # Pixelmoji Font 😀
 
 Missing Emojis:
-* Chains
-* Key
-* Droplet
+
 * Lightning Bolt
 * Mountain
 * Volcano
