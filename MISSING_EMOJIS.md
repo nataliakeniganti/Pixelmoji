@@ -2,7 +2,6 @@
 
 Missing Emojis:
 
-* Lightning Bolt
 * Mountain
 * Volcano
 * Wheel
