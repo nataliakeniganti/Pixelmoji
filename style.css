@@ -9,7 +9,7 @@
 }
 @font-palette-values --palette0 {
     font-family: "Pixelmoji-2.0";
-    base-palette: 0
+    base-palette: 0;
 }
 .emoji {
     /* Use !important to prevent extensions from overriding this font. */
@@ -23,6 +23,7 @@
     /* Enable Ligatures ================ */
     letter-spacing: 0;
     -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
     -moz-font-feature-settings: "liga";
     -ms-font-feature-settings: "liga" 1;
     font-feature-settings: "liga";
