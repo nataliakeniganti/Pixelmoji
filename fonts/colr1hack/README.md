@@ -3,4 +3,5 @@ of the COLR0.
 
 - Android (using Pixelmoji as a emoji font)
 - IbisPaintX
+- Grafika
 - Magisk module (coming soon, reach 3000+ emojis)
