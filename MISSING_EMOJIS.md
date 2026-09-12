@@ -14,3 +14,5 @@ Missing Emojis:
 * Fleur-de-lis
 * Trident Emblem
 * Name Badge
+* Eraser
+* Net with Handle
