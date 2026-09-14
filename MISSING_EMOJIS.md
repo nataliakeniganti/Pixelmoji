@@ -16,9 +16,6 @@ Missing Emojis:
 * Trident Emblem
 * Name Badge
 * Eraser
-* Net with Handle
 * Fire
 * Heart Suit
 * Broken Chain
-* Thumbs Up
-* Thumbs Down
