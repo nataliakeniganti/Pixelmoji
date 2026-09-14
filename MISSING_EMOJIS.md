@@ -2,6 +2,7 @@
 
 Missing Emojis:
 
+* Brown Mushroom
 * Mountain
 * Volcano
 * Wheel
@@ -16,3 +17,8 @@ Missing Emojis:
 * Name Badge
 * Eraser
 * Net with Handle
+* Fire
+* Heart Suit
+* Broken Chain
+* Thumbs Up
+* Thumbs Down
