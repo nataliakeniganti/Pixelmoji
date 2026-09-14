@@ -12,7 +12,7 @@ Pixelmoji ist eine Schriftart mit pixeligen Emojis.
 * Einige doppelte weiße Flaggen entfernt
 * Khanda hinzugefügt
 * Passkontrolle hinzugefügt
-* Benutzerdefinierte Elemente hinzugefügt
+* Zollkontrolle hinzugefügt
 
 ## Credits
 https://r74n.com/pixelflags/
