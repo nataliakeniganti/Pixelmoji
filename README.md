@@ -3,6 +3,8 @@
 # Pixelmoji Font 😀
 Pixelmoji is an font that features pixelated emojis.
 
+Note: I'm not working anymore and @Crepank acting like pig, he is traitor
+
 Changelogs:
 * Added Paperclip and Linked Paperclips
 * Added <img width="16" height="16" alt="shaking_face" src="svg/shaking_face.svg" /> Shaking Face
